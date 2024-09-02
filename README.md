@@ -1,7 +1,7 @@
 # H9
 A lightweight launcher
 
-In developing
+This project is no longer maintained. I have created a script launcher instead. Please check [here](https://github.com/H9/Scripts).
 
 ### Purpose
 
